@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Guía Definitiva CASHFLOW",
+      "hasCanvas": false,
+      "bodyTextLen": 73321,
+      "bodyTextHash": "f64ad4aa7e2049a6ded320ff48d52f598449ba2902210b8c37d8113080dd3b28",
+      "bodyTextPrefix": "Guía Definitiva CASHFLOW Descargar PDF Imprimir ÍNDICE 00 Portad",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Guía Definitiva CASHFLOW",
+      "hasCanvas": false,
+      "bodyTextLen": 73161,
+      "bodyTextHash": "ad4b567fcfcf36cf7f32d9b00d9b974952913c7ea32f5bb13ae99a6055f7584a",
+      "bodyTextPrefix": "Guía Definitiva CASHFLOW PDF MANUAL DE APRENDIZAJE Guía Definiti",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

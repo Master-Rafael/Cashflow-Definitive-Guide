@@ -1,0 +1,1 @@
+import{t as e}from"./book-app-D8g8_el7.js";import{n as t}from"./index-aUXOmTDA.js";var n=t();function r(){return(0,n.jsx)(e,{})}export{r as component};
